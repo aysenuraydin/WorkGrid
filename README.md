@@ -72,8 +72,7 @@ Her yeni müşteri için sıfırdan kod yazmak yerine; hazır şablonlar ve dina
 > *"Bu platform, kurumsal ihtiyaçlar için harcanan geliştirme süresini haftalardan dakikalara indiren, konfigüre edilebilir dinamik tablo yapıları ve akıllı ilişki motoruyla donatılmış bir Low-Code Framework'tür. Amacımız, yazılımda tekrarlanan ameleliği bitirip, tek bir güçlü çekirdek ile sınırsız sayıda sektörel çözüm üretmektir."*
 
 
-<div align="center">
-  <h1>🚀 WorkGrid</h1>
+<div align="center"> 
   <p><strong>WorkGrid: The Next-Gen No-Code OS</strong></p>
   <p><em>"Don't just use software. Build your own ecosystem in minutes."</em></p>
   <p>A next-generation <strong>PaaS (Platform as a Service)</strong> and <strong>BaaS (Backend as a Service)</strong> ecosystem that allows businesses to build their own software architectures, completely code-free, in minutes.</p>
