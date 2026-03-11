@@ -23,6 +23,8 @@ Projenin kalbinde, tamamen özelleştirilebilir ve güçlü bir Backend-as-a-Ser
 - **🔌 Modüler Çözümler:** CRM, ERP, E-Ticaret ve Randevu sistemi gibi kurumsal modülleri tek tıkla kurup aktif edin.
 - **🎨 Dinamik Arayüz (Layout) Özelleştirme:** Kullanıcıların kendi iş akışlarına göre kişiselleştirebildiği profesyonel arayüzler (Sadece okunabilir (Readonly), gizli (Hidden), zorunlu (Required) inputlar, `col-md-6` gibi özel grid boyutlandırmaları).
 - **Kurumsal Multi-Tenancy (Çoklu Kiracı):** Tek bir kod tabanı üzerinden, birbirlerinden tamamen izole edilmiş, kendilerine ait özel CNAME'leri ve çalışma alanları (workspaces) olan yüzlerce farklı müşteriye hizmet verebilen altyapı.
+- **🤖 Yapay Zeka Destekli Şema Üretimi (NLP):** Müşteriler ihtiyaç duydukları yazılımı sadece metin olarak tarif eder; platform (AI motoru aracılığıyla) gerekli tabloları, ilişkileri ve arayüzleri saniyeler içinde otomatik olarak üretir.
+- **👁️ Görüntü İşleme (OpenCV) ile Veri Okuma:** Sisteme yüklenen fatura, belge veya form fotoğraflarını sistem otomatik okur, ayıklar ve ilgili GridBase tablolarına dinamik kayıt olarak ekler.
 
 ---
 
@@ -64,12 +66,14 @@ Her yeni müşteri için sıfırdan kod yazmak yerine; hazır şablonlar ve dina
 - [/] **Hücre Düzenleme (Cell-based Editing):** Inline edit (satır içi düzenleme) ve veri validasyonu (Geliştiriliyor).
 - [ ] **Sürükle & Bırak (Drag & Drop) Arayüzü:** Görsel yer değiştirme ve kullanıcı deneyimi optimizasyonu (Yakında).
 - [ ] **GridBase Entegrasyonu:** Backend ile gerçek zamanlı veri senkronizasyonu (Yakında).
+- [ ] **Yapay Zeka Prompt Motoru:** NLP ile yazılı tarif üzerinden anında veritabanı kurgulama motoru (Yakında).
+- [ ] **OpenCV Döküman Okuyucu:** Fatura ve belge fotoğraflarından GridBase hücrelerine otomatik veri akışı (Yakında).
 
 > *"Bu platform, kurumsal ihtiyaçlar için harcanan geliştirme süresini haftalardan dakikalara indiren, konfigüre edilebilir dinamik tablo yapıları ve akıllı ilişki motoruyla donatılmış bir Low-Code Framework'tür. Amacımız, yazılımda tekrarlanan ameleliği bitirip, tek bir güçlü çekirdek ile sınırsız sayıda sektörel çözüm üretmektir."*
 
 
 <div align="center">
-  <h1>🚀 WorkGrid </h1>
+  <h1>🚀 WorkGrid</h1>
   <p><strong>WorkGrid: The Next-Gen No-Code OS</strong></p>
   <p><em>"Don't just use software. Build your own ecosystem in minutes."</em></p>
   <p>A next-generation <strong>PaaS (Platform as a Service)</strong> and <strong>BaaS (Backend as a Service)</strong> ecosystem that allows businesses to build their own software architectures, completely code-free, in minutes.</p>
@@ -93,6 +97,8 @@ At its core, **GridBase** acts as an immensely powerful Backend-as-a-Service eng
 - **🔌 Modular Solutions:** 1-click install and activation of business modules such as CRM, ERP, E-Commerce, and Appointment systems.
 - **🎨 Dynamic Layout Customization:** Professional user interfaces that users can personalize according to their own workflows (Readonly, Hidden, Required inputs, custom grid sizing like `col-md-6`).
 - **Enterprise Multi-Tenancy:** Hundreds of distinct clients using the system with complete isolation, personalized CNAMEs, and independent workspaces.
+- **🤖 NLP / AI Schema Generation:** Users can intuitively describe the system they want via natural language. The AI engine parses these requests and instantly auto-generates the necessary relational tables, columns, and form UIs.
+- **👁️ OpenCV Document Parsing:** Automated image processing capabilities. Upload an invoice or document photo, and the system automatically extracts the text and maps it into your GridBase tables dynamically.
 
 ---
 
@@ -134,5 +140,8 @@ Instead of writing code for every new customer; thanks to ready-made templates a
 - [/] **Cell-based Editing:** Inline edit and data validation (In Progress).
 - [ ] **Drag & Drop Interface:** Visual displacement and user experience optimization (Coming Soon).
 - [ ] **GridBase Integration:** Real-time data synchronization with Backend (Coming Soon).
+- [ ] **AI-Driven Form & Database Builder:** NLP integration allowing prompt-based schema building (Coming Soon).
+- [ ] **Computer Vision (OpenCV):** Invoice and document auto-scanning into data tables (Coming Soon).
 
 > *"This platform is a Low-Code Framework equipped with configurable dynamic table structures and a smart relationship engine that reduces the development time spent on enterprise needs from weeks to minutes. Our goal is to end repetitive drudgery in software and produce an unlimited number of sectoral solutions with a single powerful core."*
+
