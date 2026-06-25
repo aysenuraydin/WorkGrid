@@ -8,7 +8,7 @@
 
 Tablo oluşturun, kolonları sürükleyerek tasarlayın, tablolar arası ilişkiler kurun, doğrulama kuralları ve hesaplama formülleri tanımlayın, kayıt modallarını görsel olarak özelleştirin — hepsi çalışma zamanında, koda dokunmadan.
 
-`No-Code` · `PaaS + BaaS` · `Multi-Tenant` · `White-Label` · `Clean Architecture` · `DDD` · `CQRS` · `40+ Input Tipi`
+`No-Code` · `PaaS + BaaS + SaaS` · `Multi-Tenant` · `White-Label` · `Clean Architecture` · `DDD` · `CQRS` · `40+ Input Tipi`
 
 </div>
 
