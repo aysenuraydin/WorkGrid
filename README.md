@@ -92,7 +92,7 @@ GridBase verileri arka planda **EAV (Entity-Attribute-Value)** modelinde tutar: 
 }
 ```
 
-Kullanıcı bu JSON'u görür ve onunla çalışır; ama sistem aslında satır ve hücre olarak saklar — biz çaktırmayız. Bu, hem dinamik şema esnekliğini hem de geliştirici dostu bir API'yi aynı anda mümkün kılar. Firebase'in yaptığı her şeyi yapar, ama hem kullanıcı dostu arayüzü hem de hazır endpoint'leri vardır.
+Kullanıcı bu JSON'u görür ve onunla çalışır; ama sistem aslında satır ve hücre olarak saklar. Bu, hem dinamik şema esnekliğini hem de geliştirici dostu bir API'yi aynı anda mümkün kılar. Firebase'in yaptığı her şeyi yapar, ama hem kullanıcı dostu arayüzü hem de hazır endpoint'leri vardır.
 
 ---
 
