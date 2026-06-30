@@ -1,5 +1,14 @@
 <div align="center">
 
+ 🔒 **Kaynak Kod Hakkında**
+ WorkGrid ticari bir üründür; çekirdek kaynak kodu private tutulmaktadır.
+ Bu repo; mimariyi, dokümantasyonu ve canlı demoyu tanıtan bir vitrindir.
+ Değerlendirme amacıyla **private repoya erişim talep edebilirsiniz** — memnuniyetle paylaşırım.
+
+ <br/>
+ 🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
+ 📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
+ 
 # 🟦 WorkGrid
 
 ### Verilerinizi şekillendirin, geleceğinizi şekillendirin.
