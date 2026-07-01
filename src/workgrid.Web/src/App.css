@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.modal {
+  z-index: 1100 !important;
+}
+.popover {
+  z-index: 1040 !important;
+}
+div {
+    border:none !important;
+}
+
+.table-min-height {
+  border: #282c34 5px solid !important;
+  height: 100vh !important;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.capitalize-first::first-letter {
+  text-transform: uppercase;
+}
+
+.navbar-menu .navbar-nav .nav-item .active i,
+#navbar-nav .nav-item > a.active i {
+    color: inherit !important;
+}
+
+[GERÇEK_SELECTOR] .nav-item:hover > .menu-dropdown,
+[GERÇEK_SELECTOR] .menu-dropdown.show {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    visibility: visible !important;
+    z-index: 1001 !important;
+}

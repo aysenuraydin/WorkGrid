@@ -1,0 +1,2 @@
+2026-06-24 05:04:05.784 +03:00 [ERR] [Performance] Request: GetDatatablesWithRelationshipsQuery, User: 0f6b8e40-a76f-41be-9b95-9842d9c939e8-User7., Time: 2703
+2026-06-24 14:17:21.882 +03:00 [ERR] [Performance] Request: GetMenuItemsQuery, User: 0f6b8e40-a76f-41be-9b95-9842d9c939e8-User7., Time: 454

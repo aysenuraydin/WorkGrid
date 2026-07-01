@@ -1,0 +1,251 @@
+
+.btn-hover:hover {
+    color: white !important;
+}
+
+.btn-hover:hover i {
+    color: white !important;
+}
+.form-control:hover{
+    border:1px solid var(--vz-primary-rgb);
+}
+.w-100.form-control:hover{
+    border:1px solid var(--vz-primary-rgb)a;
+}
+.checkbox-style{
+    width:20px;
+    height:20px;
+    cursor:pointer;
+    accent-color: var(--vz-primary-rgb);
+}
+/* Varsayılan tüm hücre efektlerini kapat */
+.custom-week-range-picker
+.ant-picker-cell::before,
+.custom-week-range-picker
+.ant-picker-cell-inner {
+    background: transparent !important;
+    border-radius: 0 !important;
+}
+
+/* Week range satırının TAMAMINI tek parça boya */
+.custom-week-range-picker
+.ant-picker-week-panel-row-range-start::after,
+.custom-week-range-picker
+.ant-picker-week-panel-row-range-hover::after,
+.custom-week-range-picker
+.ant-picker-week-panel-row-range-end::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+/* Satır üstünde yazılar görünsün */
+.custom-week-range-picker
+.ant-picker-week-panel-row td {
+    position: relative;
+    z-index: 1;
+}
+
+/* Hover'da kutu çıkmasın */
+.custom-week-range-picker
+.ant-picker-week-panel-row:hover td::before {
+    display: none !important;
+}
+    .custom-week-range-picker
+.ant-picker-week-panel-row-range-start .ant-picker-cell-inner,
+.custom-week-range-picker
+.ant-picker-week-panel-row-range-hover .ant-picker-cell-inner,
+.custom-week-range-picker
+.ant-picker-week-panel-row-range-end .ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+    width:100%;
+    color: black !important;
+    border-radius: 0 !important;
+}
+.custom-range-picker
+.ant-picker-cell::before {
+    background: transparent !important;
+}
+.custom-range-picker
+.ant-picker-cell-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 32px;
+    width: 32px;
+    margin: auto;
+    position: relative;
+    color: #000;
+    z-index: 1;
+}
+
+.custom-range-picker
+.ant-picker-cell-in-range
+.ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+    color: #000;
+    border-radius: 0;
+    width:100%;
+}
+
+.custom-range-picker
+.ant-picker-cell-range-start
+.ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.5) !important;
+    color: #000 !important;
+    border-radius: 50%;
+    width:100%;
+}
+
+.custom-range-picker
+.ant-picker-cell-range-end
+.ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.5) !important;
+    color: #000 !important;
+    border-radius: 50%;
+    width:100%;
+}
+
+.custom-week-picker
+.ant-picker-cell-inner {
+    background: transparent;
+    border-radius: 0;
+}
+
+.custom-week-picker
+.ant-picker-week-panel tbody tr:hover
+.ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+    border-radius: 0;
+    color:black;
+    width: 100%;
+}
+
+.custom-week-picker
+.ant-picker-week-panel-row-selected
+.ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+    border-radius: 0;
+    color:black;
+    width: 100%;
+}
+
+.custom-week-picker
+.ant-picker-cell-hover
+.ant-picker-cell-inner {
+    color:black;
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+    border-radius: 0;
+}
+
+.custom-week-picker
+.ant-picker-cell::before {
+    display: none !important;
+}
+.ant-picker-cell:hover .ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.1) !important; /* açık mavi */
+    border-radius: 6px;
+}
+
+.ant-picker-cell-today .ant-picker-cell-inner::before {
+    border: 1.5px solid var(--vz-primary-rgb) !important; /* istediğin renk */
+    border-radius: 6px;
+}
+
+.ant-picker-cell-selected .ant-picker-cell-inner {
+    background-color: rgba(var(--vz-primary-rgb), 0.3) !important; /* Ant primary */
+    color: #000 !important;
+    border-radius: 6px;
+}
+
+.ant-picker-cell-today .ant-picker-cell-inner::before {
+    border: 1px solid rgba(var(--vz-primary-rgb), 0.5);
+    border-radius: 6px;
+}
+.time-changed.ant-picker {
+    background-color: rgba(var(--vz-primary-rgb), 0.1); /* örnek morumsu */
+}
+
+.time-changed.ant-picker:hover {
+    background-color: rgba(var(--vz-primary-rgb), 0.1);
+}
+.w-100:hover{
+    border:1px solid var(--vz-primary-rgb);
+}
+.checkbox-style{
+    width:20px;
+    height:20px;
+    cursor:pointer;
+    accent-color: var(--vz-primary-rgb);
+}
+.hover-btn:hover{
+    color:var(--vz-primary-rgb) !important;
+    cursor:pointer;
+}
+.hide-scroll {
+    scrollbar-width: none;      
+    -ms-overflow-style: none;    
+}
+.hide-scroll::-webkit-scrollbar {
+    display: none;            
+}
+.ant-picker-time-panel-column
+.ant-picker-time-panel-cell-selected:hover {
+    background-color: rgba(var(--vz-primary-rgb), 0.8) !important;
+}
+
+/* Hover */
+.ant-picker-time-panel-column > li:hover {
+background-color: rgba(var(--vz-primary-rgb), 0.1);
+}
+/* Active bar (saat / dakika altındaki çizgi) */
+.ant-picker-active-bar {
+background-color: rgba(var(--vz-primary-rgb), 0.5) !important;
+height: 2px !important;
+}
+
+/* Bazı versiyonlarda border kullanılıyor */
+.ant-picker-active-bar::after {
+background-color: rgba(var(--vz-primary-rgb), 0.5)!important;
+}
+
+/* Focus olduğunda */
+.ant-picker-focused .ant-picker-active-bar {
+background-color: rgba(var(--vz-primary-rgb), 0.8) !important;
+}
+
+.ant-picker-time-panel .ant-picker:focus,
+.ant-picker-time-panel .ant-picker-focused {
+    box-shadow: none !important;
+    border-color: inherit !important;
+}
+
+.ant-picker-time-panel .ant-picker-active-bar {
+    display: none !important;
+}
+.ant-picker-time-panel-cell-selected
+.ant-picker-time-panel-cell-inner {
+background-color: rgba(var(--vz-primary-rgb), 0.1) !important;
+}
+.ant-picker:focus,
+.ant-picker-focused {
+    border-color: inherit !important;
+    box-shadow: none !important;
+}
+.custom-range-picker .ant-picker-cell-disabled .ant-picker-cell-inner {
+    color: #B1B1B1 !important;  
+    background: #F5F5F5 !important;
+    width:100%;
+    cursor: not-allowed !important;
+    opacity: 0.5;
+    pointer-events: none;
+    border-radius: 0 !important;
+}
+
+.custom-range-picker .ant-picker-cell-disabled:hover .ant-picker-cell-inner {
+    background: transparent !important;
+}

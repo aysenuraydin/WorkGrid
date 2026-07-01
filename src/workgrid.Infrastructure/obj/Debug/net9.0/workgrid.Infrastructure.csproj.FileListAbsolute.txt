@@ -1,0 +1,108 @@
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.runtimeconfig.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.DB792F6F.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/refint/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.genruntimeconfig.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Infrastructure/obj/Debug/net9.0/ref/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.runtimeconfig.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.DB792F6F.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/refint/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.genruntimeconfig.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Infrastructure/obj/Debug/net9.0/ref/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.runtimeconfig.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.DB792F6F.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/refint/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.genruntimeconfig.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Infrastructure/obj/Debug/net9.0/ref/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.runtimeconfig.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.DB792F6F.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/refint/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.genruntimeconfig.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Infrastructure/obj/Debug/net9.0/ref/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/refint/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.deps.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.runtimeconfig.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Infrastructure.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Application.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.DB792F6F.Up2Date
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/workgrid.Infrastructure.genruntimeconfig.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/Debug/net9.0/ref/workgrid.Infrastructure.dll

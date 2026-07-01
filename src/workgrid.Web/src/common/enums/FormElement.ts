@@ -1,0 +1,1 @@
+type FormElement = HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement;

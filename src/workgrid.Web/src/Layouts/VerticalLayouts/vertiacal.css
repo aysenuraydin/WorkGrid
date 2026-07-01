@@ -1,0 +1,11 @@
+
+
+#navbar-nav .wg-dd-light .nav-link {
+    color: #495057 !important; 
+}
+
+
+.navbar-menu .navbar-nav .nav-item .active, .navbar-menu .navbar-nav .nav-item > a.active, #navbar-nav .nav-item > a.active {
+    color: rgba(var(--vz-primary-rgb), .35) !important;
+}
+

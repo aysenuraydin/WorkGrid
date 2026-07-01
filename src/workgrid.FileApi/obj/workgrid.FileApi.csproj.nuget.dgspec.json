@@ -1,0 +1,745 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.FileApi/workgrid.FileApi.csproj": {}
+  },
+  "projects": {
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj",
+        "projectName": "workgrid.Application",
+        "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj",
+        "packagesPath": "/Users/aysenuraydin/.nuget/packages/",
+        "outputPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/aysenuraydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj"
+              },
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.3, )",
+              "versionCentrallyManaged": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.1.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Asp.Versioning.Http": "8.1.1",
+            "Asp.Versioning.Mvc.ApiExplorer": "8.1.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Bogus": "35.0.1",
+            "Dapper": "2.1.35",
+            "FluentScheduler": "5.5.2",
+            "FluentValidation.DependencyInjectionExtensions": "12.0.0",
+            "MailKit": "2.6.0",
+            "MediatR": "13.0.0",
+            "Microsoft.AspNetCore.Authentication.Google": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Http.Abstractions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Extensions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Features": "5.0.17",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Identity.UI": "9.0.8",
+            "Microsoft.AspNetCore.OpenApi": "9.0.8",
+            "Microsoft.Data.SqlClient": "6.1.1",
+            "Microsoft.Data.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.8",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.8",
+            "Microsoft.Extensions.Identity.Core": "9.0.8",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.8",
+            "Microsoft.IdentityModel.Tokens": "8.18.0",
+            "MongoDB.Driver": "3.4.3",
+            "Newtonsoft.Json": "13.0.4",
+            "RabbitMQ.Client": "7.1.2",
+            "Serilog": "4.3.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Extensions.Logging": "9.0.2",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.MongoDB": "7.0.0",
+            "Swashbuckle.AspNetCore": "9.0.3",
+            "System.IdentityModel.Tokens.Jwt": "8.18.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj",
+        "projectName": "workgrid.Domain",
+        "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj",
+        "packagesPath": "/Users/aysenuraydin/.nuget/packages/",
+        "outputPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/aysenuraydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Asp.Versioning.Http": "8.1.1",
+            "Asp.Versioning.Mvc.ApiExplorer": "8.1.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Bogus": "35.0.1",
+            "Dapper": "2.1.35",
+            "FluentScheduler": "5.5.2",
+            "FluentValidation.DependencyInjectionExtensions": "12.0.0",
+            "MailKit": "2.6.0",
+            "MediatR": "13.0.0",
+            "Microsoft.AspNetCore.Authentication.Google": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Http.Abstractions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Extensions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Features": "5.0.17",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Identity.UI": "9.0.8",
+            "Microsoft.AspNetCore.OpenApi": "9.0.8",
+            "Microsoft.Data.SqlClient": "6.1.1",
+            "Microsoft.Data.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.8",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.8",
+            "Microsoft.Extensions.Identity.Core": "9.0.8",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.8",
+            "Microsoft.IdentityModel.Tokens": "8.18.0",
+            "MongoDB.Driver": "3.4.3",
+            "Newtonsoft.Json": "13.0.4",
+            "RabbitMQ.Client": "7.1.2",
+            "Serilog": "4.3.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Extensions.Logging": "9.0.2",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.MongoDB": "7.0.0",
+            "Swashbuckle.AspNetCore": "9.0.3",
+            "System.IdentityModel.Tokens.Jwt": "8.18.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj",
+        "projectName": "workgrid.DTO",
+        "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj",
+        "packagesPath": "/Users/aysenuraydin/.nuget/packages/",
+        "outputPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/aysenuraydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/workgrid.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "centralPackageVersions": {
+            "Asp.Versioning.Http": "8.1.1",
+            "Asp.Versioning.Mvc.ApiExplorer": "8.1.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Bogus": "35.0.1",
+            "Dapper": "2.1.35",
+            "FluentScheduler": "5.5.2",
+            "FluentValidation.DependencyInjectionExtensions": "12.0.0",
+            "MailKit": "2.6.0",
+            "MediatR": "13.0.0",
+            "Microsoft.AspNetCore.Authentication.Google": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Http.Abstractions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Extensions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Features": "5.0.17",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Identity.UI": "9.0.8",
+            "Microsoft.AspNetCore.OpenApi": "9.0.8",
+            "Microsoft.Data.SqlClient": "6.1.1",
+            "Microsoft.Data.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.8",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.8",
+            "Microsoft.Extensions.Identity.Core": "9.0.8",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.8",
+            "Microsoft.IdentityModel.Tokens": "8.18.0",
+            "MongoDB.Driver": "3.4.3",
+            "Newtonsoft.Json": "13.0.4",
+            "RabbitMQ.Client": "7.1.2",
+            "Serilog": "4.3.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Extensions.Logging": "9.0.2",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.MongoDB": "7.0.0",
+            "Swashbuckle.AspNetCore": "9.0.3",
+            "System.IdentityModel.Tokens.Jwt": "8.18.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.FileApi/workgrid.FileApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.FileApi/workgrid.FileApi.csproj",
+        "projectName": "workgrid.FileApi",
+        "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.FileApi/workgrid.FileApi.csproj",
+        "packagesPath": "/Users/aysenuraydin/.nuget/packages/",
+        "outputPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.FileApi/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/aysenuraydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj"
+              },
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/workgrid.DTO.csproj"
+              },
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/workgrid.Infrastructure.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/workgrid.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.18.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.3, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Asp.Versioning.Http": "8.1.1",
+            "Asp.Versioning.Mvc.ApiExplorer": "8.1.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Bogus": "35.0.1",
+            "Dapper": "2.1.35",
+            "FluentScheduler": "5.5.2",
+            "FluentValidation.DependencyInjectionExtensions": "12.0.0",
+            "MailKit": "2.6.0",
+            "MediatR": "13.0.0",
+            "Microsoft.AspNetCore.Authentication.Google": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Http.Abstractions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Extensions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Features": "5.0.17",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Identity.UI": "9.0.8",
+            "Microsoft.AspNetCore.OpenApi": "9.0.8",
+            "Microsoft.Data.SqlClient": "6.1.1",
+            "Microsoft.Data.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.8",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.8",
+            "Microsoft.Extensions.Identity.Core": "9.0.8",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.8",
+            "Microsoft.IdentityModel.Tokens": "8.18.0",
+            "MongoDB.Driver": "3.4.3",
+            "Newtonsoft.Json": "13.0.4",
+            "RabbitMQ.Client": "7.1.2",
+            "Serilog": "4.3.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Extensions.Logging": "9.0.2",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.MongoDB": "7.0.0",
+            "Swashbuckle.AspNetCore": "9.0.3",
+            "System.IdentityModel.Tokens.Jwt": "8.18.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/workgrid.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/workgrid.Infrastructure.csproj",
+        "projectName": "workgrid.Infrastructure",
+        "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/workgrid.Infrastructure.csproj",
+        "packagesPath": "/Users/aysenuraydin/.nuget/packages/",
+        "outputPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/aysenuraydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj": {
+                "projectPath": "/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Application/workgrid.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.3.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[9.0.8, )",
+              "versionCentrallyManaged": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Serilog.Sinks.MongoDB": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Asp.Versioning.Http": "8.1.1",
+            "Asp.Versioning.Mvc.ApiExplorer": "8.1.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Bogus": "35.0.1",
+            "Dapper": "2.1.35",
+            "FluentScheduler": "5.5.2",
+            "FluentValidation.DependencyInjectionExtensions": "12.0.0",
+            "MailKit": "2.6.0",
+            "MediatR": "13.0.0",
+            "Microsoft.AspNetCore.Authentication.Google": "9.0.8",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.8",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Http.Abstractions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Extensions": "2.3.0",
+            "Microsoft.AspNetCore.Http.Features": "5.0.17",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
+            "Microsoft.AspNetCore.Identity.UI": "9.0.8",
+            "Microsoft.AspNetCore.OpenApi": "9.0.8",
+            "Microsoft.Data.SqlClient": "6.1.1",
+            "Microsoft.Data.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.8",
+            "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.8",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.8",
+            "Microsoft.Extensions.Caching.StackExchangeRedis": "9.0.8",
+            "Microsoft.Extensions.Identity.Core": "9.0.8",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.8",
+            "Microsoft.IdentityModel.Tokens": "8.18.0",
+            "MongoDB.Driver": "3.4.3",
+            "Newtonsoft.Json": "13.0.4",
+            "RabbitMQ.Client": "7.1.2",
+            "Serilog": "4.3.0",
+            "Serilog.AspNetCore": "9.0.0",
+            "Serilog.Extensions.Logging": "9.0.2",
+            "Serilog.Sinks.Console": "6.0.0",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.MongoDB": "7.0.0",
+            "Swashbuckle.AspNetCore": "9.0.3",
+            "System.IdentityModel.Tokens.Jwt": "8.18.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

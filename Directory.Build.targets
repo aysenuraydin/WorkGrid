@@ -1,0 +1,9 @@
+<Project>
+  <Target Name="BeforeBuild" BeforeTargets="Build">
+    <Message Text="Projeyi derlemeden önce bu mesaj çalışacak!" Importance="High" />
+  </Target>
+
+  <Target Name="AfterBuild" AfterTargets="Build">
+    <Message Text="Projeyi derledikten sonra bu mesaj çalışacak!" Importance="High" />
+  </Target>
+</Project>

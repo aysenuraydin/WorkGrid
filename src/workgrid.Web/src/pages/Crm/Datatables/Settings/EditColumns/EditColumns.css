@@ -1,0 +1,88 @@
+
+.last-column {
+    width: 16px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.scroll-body {
+    max-height: 27rem !important;
+    overflow: auto;
+    scrollbar-width: none;   
+    -ms-overflow-style: none;  
+    -webkit-overflow-scrolling: touch; 
+    position: relative;
+}
+.sticky-header th {
+    position: sticky;
+    top: 0;
+    background: #f8f9fa; /* thead arkaplanı */
+    z-index: 10;
+    /* İstersen border ekle */
+    border-bottom: 1px solid #dee2e6;
+}
+.card{
+    border:none;
+    box-shadow: none !important;
+}
+.card::before,
+.card::after {
+    content: none !important;
+    display: none !important;
+}
+
+.last-column {
+    width: 16px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.scroll-body {
+    max-height: 44rem !important;
+    overflow: auto;
+    scrollbar-width: none;   
+    -ms-overflow-style: none;  
+    -webkit-overflow-scrolling: touch; 
+    position: relative;
+}
+.sticky-header th {
+    position: sticky;
+    top: 0;
+    background: #f8f9fa; /* thead arkaplanı */
+    z-index: 10;
+    /* İstersen border ekle */
+    border-bottom: 1px solid #dee2e6;
+}
+.edit-columns-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.btn-hover:hover {
+    color: white !important;
+}
+.btn-hover:hover i {
+    color: white !important;
+}
+.last-column {
+    width: 16px !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.scroll-body {
+    overflow: auto;
+    scrollbar-width: none;   
+    -ms-overflow-style: none;  
+    -webkit-overflow-scrolling: touch; 
+    position: relative;
+}
+.sticky-header th {
+    position: sticky;
+    top: 0;
+    background: #f8f9fa;
+    z-index: 10;
+} 

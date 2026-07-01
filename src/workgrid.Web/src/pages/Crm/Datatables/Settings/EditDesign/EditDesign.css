@@ -1,0 +1,42 @@
+
+.hide-scrollbar {
+    overflow: auto;
+    scrollbar-width: none;
+}
+.h-100.w-100:hover{
+    border:none;
+}
+.codfe-view:hover{
+    border: 1px solid var(--vz-primary);
+    border-radius: 7px;
+}
+.hide-scrollbar::-webkit-scrollbar {
+    display: none; 
+}
+    
+.ant-select-outlined:not(.ant-select-disabled):hover,
+.ant-select-outlined:not(.ant-select-disabled):focus-within {
+box-shadow: none !important;
+outline: none !important;
+}
+
+.ant-select-outlined .ant-select-input {
+box-shadow: none !important;
+outline: none !important;
+}
+.ant-select-outlined:not(.ant-select-disabled):hover {
+border-color: var(--vz-primary) !important;
+}
+
+.ant-select-outlined:not(.ant-select-disabled):hover,
+.ant-select-outlined:not(.ant-select-disabled):focus-within,
+.ant-select-open.ant-select-outlined {
+box-shadow: none !important;
+outline: none !important;
+border-color: var(--vz-primary) !important;
+}
+
+.ant-select-outlined .ant-select-input {
+box-shadow: none !important;
+outline: none !important;
+} 

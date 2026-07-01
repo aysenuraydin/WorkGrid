@@ -1,0 +1,64 @@
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.CE29E076.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/refint/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.DTO/obj/Debug/net9.0/ref/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.CE29E076.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/refint/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.DTO/obj/Debug/net9.0/ref/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.CE29E076.Up2Date
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/refint/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.DTO/obj/Debug/net9.0/ref/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/refint/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.deps.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/bin/Debug/net9.0/workgrid.DTO.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.DTO.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/workgrid.CE29E076.Up2Date
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.DTO/obj/Debug/net9.0/ref/workgrid.DTO.dll

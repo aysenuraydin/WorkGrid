@@ -1,0 +1,103 @@
+@media (min-width: 992px) {
+  /* overflow + z-index bloğu — AYNEN KALIR */
+    [data-layout="horizontal"] .app-menu,
+    [data-layout="horizontal"] .navbar-menu,
+    [data-layout="horizontal"] #scrollbar,
+    [data-layout="horizontal"] #navbar-nav,
+    [data-layout="horizontal"] .app-menu .container-fluid { overflow: visible !important; }
+    [data-layout="horizontal"] .simplebar-content-wrapper,
+    [data-layout="horizontal"] .simplebar-mask { overflow: visible !important; }
+    [data-layout="horizontal"] .app-menu .navbar-nav .nav-item .menu-dropdown { z-index: 1002; }
+    [data-layout="horizontal"] .app-menu .navbar-nav .nav-item .menu-dropdown .menu-dropdown { z-index: 1003; }
+}
+
+
+
+/* AÇIK tema dropdown — #navbar-nav ile güçlendirilmiş */
+#navbar-nav .wg-dd-light,
+#navbar-nav .wg-dd-light .menu-dropdown {
+    background-color: #fff !important;
+    box-shadow: 0 5px 20px rgba(0,0,0,.12);
+    border-radius: 6px;
+}
+#navbar-nav .wg-dd-light .nav-link {
+    color: #495057 !important;
+    opacity: 1 !important;
+}
+#navbar-nav .wg-dd-light .nav-link:hover {
+    color: var(--vz-primary) !important;
+    background-color: rgba(0,0,0,.04) !important;
+    opacity: 1 !important;
+}
+
+/* KOYU tema dropdown */
+#navbar-nav .wg-dd-dark,
+#navbar-nav .wg-dd-dark .menu-dropdown {
+    background-color: #2a3042 !important;
+    box-shadow: 0 5px 20px rgba(0,0,0,.3);
+    border-radius: 6px;
+}
+#navbar-nav .wg-dd-dark .nav-link {
+    color: rgba(255,255,255,.75) !important;
+    opacity: 1 !important;
+}
+#navbar-nav .wg-dd-dark .nav-link:hover {
+    color: #fff !important;
+    background-color: rgba(255,255,255,.06) !important;
+    opacity: 1 !important;
+}
+
+
+
+/* =========================================================
+    Horizontal layout — mobil (<=1024px) menü
+    SCSS'ten düz CSS'e çevrildi
+   ========================================================= */
+
+@media (max-width: 1024px) {
+    [data-layout="horizontal"] .menu .navbar-menu {
+        display: block;
+        max-height: 50vh;          /* "50vh" tırnak hatası düzeltildi */
+        overflow-y: scroll;
+        padding-left: 0;
+    }
+
+    [data-layout="horizontal"] .menu .navbar-menu .navbar-nav {
+        flex-direction: column;
+    }
+
+    /* $vertical-menu-item-padding-x → Velzon varsayılanı 1.5rem */
+    [data-layout="horizontal"] .menu .navbar-menu .navbar-nav > li:nth-of-type(2) > .nav-link.menu-link {
+        padding-left: 1.5rem;
+    }
+
+    [data-layout="horizontal"] .menu .navbar-menu .navbar-nav .nav-sm .nav-link:before {
+        opacity: 1 !important;
+    }
+
+    [data-layout="horizontal"] .menu .menu-dropdown {
+        position: relative;
+        min-width: 100%;
+        box-shadow: none;
+        padding-left: 28px;
+        left: 0;
+        animation: none;
+        padding-top: 0;
+    }
+
+    [data-layout="horizontal"] .menu .menu-dropdown.show {
+        display: block;
+    }
+
+    [data-layout="horizontal"] .menu .dropdown-custom-right {
+        left: 0 !important;
+    }
+
+    [data-layout="horizontal"] .menu .nav-item .nav-link[data-bs-toggle="collapse"]:after {
+        right: 0px;
+    }
+
+    [data-layout="horizontal"] .menu .mega-dropdown-menu {
+        width: 100%;
+    }
+}

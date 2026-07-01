@@ -1,0 +1,81 @@
+    .hoverArrow:hover {
+        cursor: pointer;
+        transform: scale(1.3);
+        transition: transform 0.2s ease;
+    }
+    .hoverColor:hover {
+        color: white !important;
+    }  
+    .borderNone:hover {
+        border:none !important;
+    }  
+
+    .borderNone:hover .hoverColor{
+        border:none !important;
+    }
+
+    .divider:hover  {
+        border-top:none !important;
+        border-left:none !important;
+        border-right:none !important;
+    }  
+    .itemStyle:hover  {
+        border:none !important;
+    } 
+    .itemStyle  {
+        display: inline;
+        padding: 0 5px;
+    } 
+    .itemStyle:hover div .d-none {
+        display: flex !important;
+    }
+    .divider:hover .d-none {
+        display: flex !important;
+    }
+    .hoverIcon:hover {
+        color: #00000085 !important;
+    }
+    .cardContent {
+        margin:-15px;
+    }
+    .showOrHide {
+        margin-left:-6px;
+    }
+    .showOrHide:hover i{
+        color: var(--vz-primary-rgb) !important;
+        cursor: pointer;
+    }
+
+.item-style:hover{
+    border:none !important;
+}
+
+.item-style {
+    display: inline;
+    padding: 0 5px;
+} 
+.item-style:hover div .d-none {
+    display: flex !important;
+}
+
+.hover-icon:hover {
+    color: #00000085 !important;
+}
+.card-content {
+    margin:-15px;
+}
+.showOrHide {
+margin-left:-6px;
+}
+.showOrHide:hover i{
+    color:var(--vz-primary-rgb) !important;
+    cursor: pointer;
+}
+.hover-arrow:hover {
+    cursor: pointer;
+    transform: scale(1.3);
+    transition: transform 0.2s ease;
+}
+.hover-color:hover {
+    color: white !important;
+} 

@@ -1,0 +1,65 @@
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/refint/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası 2/src/workgrid.Domain/obj/Debug/net9.0/ref/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/refint/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup kopyası/src/workgrid.Domain/obj/Debug/net9.0/ref/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/refint/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup3/src/workgrid.Domain/obj/Debug/net9.0/ref/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.deps.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/refint/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/workgrid-startup/src/workgrid.Domain/obj/Debug/net9.0/ref/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.AssemblyReference.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfoInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.AssemblyInfo.cs
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.csproj.CoreCompileInputs.cache
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.sourcelink.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/refint/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.deps.json
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.dll
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/bin/Debug/net9.0/workgrid.Domain.pdb
+/Users/aysenuraydin/Documents/GitHub/WorkGrid/src/workgrid.Domain/obj/Debug/net9.0/ref/workgrid.Domain.dll

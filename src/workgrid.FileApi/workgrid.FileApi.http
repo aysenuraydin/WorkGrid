@@ -1,0 +1,6 @@
+@workgrid.FileApi_HostAddress = http://localhost:5067
+
+GET {{workgrid.FileApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

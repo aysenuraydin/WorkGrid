@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Single File Animation Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f6fa;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            display: inline-block;
+            margin-top: 30px;
+        }
+
+        #animate-me {
+            display: inline-block;
+            margin: 30px 0;
+        }
+
+        #animate-me img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+
+        button {
+            margin: 5px;
+            padding: 5px 10px;
+            border: 1px solid #6c757d;
+            background: #fff;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+
+        button:hover {
+            background: #6c757d;
+            color: #fff;
+        }
+
+        /* Magic Animations */
+        .magictime {
+            animation-duration: 1s;
+        }
+
+        @keyframes puffIn {
+            0% {transform: scale(0); opacity: 0;}
+            100% {transform: scale(1); opacity: 1;}
+        }
+
+        @keyframes puffOut {
+            0% {transform: scale(1); opacity: 1;}
+            100% {transform: scale(0); opacity: 0;}
+        }
+
+        @keyframes vanishIn {
+            0% {opacity: 0;}
+            100% {opacity: 1;}
+        }
+
+        @keyframes vanishOut {
+            0% {opacity: 1;}
+            100% {opacity: 0;}
+        }
+
+        .puffIn { animation-name: puffIn; }
+        .puffOut { animation-name: puffOut; }
+        .vanishIn { animation-name: vanishIn; }
+        .vanishOut { animation-name: vanishOut; }
+    </style>
+</head>
+<body>
+
+    <h2>Magic Animation Example</h2>
+
+    <div class="card">
+        <div id="animate-me">
+            <img src="https://mannatthemes.com/dastone-bs5/default/assets/images/logo-sm.png" alt="Logo">
+        </div>
+
+        <div>
+            <h4>Effects</h4>
+            <button data-test="puffIn">PuffIn</button>
+            <button data-test="puffOut">PuffOut</button>
+            <button data-test="vanishIn">VanishIn</button>
+            <button data-test="vanishOut">VanishOut</button>
+        </div>
+    </div>
+
+    <script>
+        function myFunction() {
+            const a = document.querySelector("#animate-me");
+            document.querySelectorAll("[data-test]").forEach(t => {
+                t.addEventListener("click", e => {
+                    const anim = e.target.dataset.test;
+                    a.classList.add("magictime", anim);
+
+                    setTimeout(() => {
+                        a.classList.remove("magictime", anim);
+                    }, 1000);
+                });
+            });
+        }
+        myFunction();
+    </script>
+
+</body>
+</html>
+
+<!-- https://mannatthemes.com/dastone-bs5/default/advanced-animation.html -->

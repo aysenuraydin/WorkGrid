@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <PackageReference Include="Dapper" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" />
+    <PackageReference Include="MongoDB.Driver" />
+    <PackageReference Include="Serilog.Extensions.Logging" />
+    <PackageReference Include="RabbitMQ.Client" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../workgrid.Domain/workgrid.Domain.csproj" />
+    <ProjectReference Include="../workgrid.DTO/workgrid.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

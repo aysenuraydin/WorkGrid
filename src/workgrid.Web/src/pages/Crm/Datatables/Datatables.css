@@ -1,0 +1,17 @@
+.col-name-cell {
+    min-width: 200px; max-width: 400px; width: 100%;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.hide-scrollbar { overflow: auto; scrollbar-width: none; -ms-overflow-style: none; }
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+#v-pills-tab .nav-link.active { background-color: #00000010 !important; color: black !important; }
+.hoverColor:hover i { color: white !important; }
+.badge-hover:hover { background-color: rgba(var(--vz-primary-rgb), 0.5) !important; }
+.bx-window { position: relative; }
+.size-text {
+    position: absolute; top: 53%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 9px; font-family: Arial, sans-serif;
+}
+.btn-soft-primary:hover .text-primary { color: white !important; }
+.btn-soft-primary { cursor: default; }

@@ -1,0 +1,142 @@
+@workgrid = http://localhost:5222/api
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNCIsInJvbGUiOiJhZG1pbiIsImdpdmVuX
+
+#########################################################
+Authorization: Bearer {{token}}
+#########################################################
+
+
+### 1. GET /api/Table
+GET {{workgrid}}/Datatable/
+Accept: application/json
+
+### 2. GET /api/Table/{id}
+GET {{workgrid}}/Table/2
+Accept: application/json
+
+### 3. POST /api/Table
+POST http://localhost:5222/api/Table
+Content-Type: application/json
+Accept: application/json
+
+{
+    "Name": "Yeni Tablo",
+    "ShowInHeader": true,
+    "HeaderOrder": 1,
+    "ForeignTableId": [2, 3],
+    "Columns": [],
+    "Cells": []
+}
+//!header ve body arasında bir satır boşluk olmalı ve body yazım stardarıda bu şekilde. restclient kullandığımız için bu şekilde postmandaki gibi yazmamız gerekiyor
+
+### 4. PUT /api/Table/{id}
+PUT http://localhost:5222/api/Table/2
+Content-Type: application/json
+Accept: application/json
+
+{
+    "Id": 2,
+    "Name": "Güncellenmiş Tablo",
+    "ShowInHeader": false,
+    "HeaderOrder": 2,
+    "ForeignTableId": [2],
+    "Columns": [],
+    "Cells": []
+}
+
+### 5. DELETE /api/Table/{id}
+DELETE {{workgrid}}/Table/3
+Accept: application/json
+
+
+#########################################################
+
+
+### 1. GET all columns
+GET {{workgrid}}/Column/
+Accept: application/json
+
+### 2. GET column by id
+GET {{workgrid}}/Column/19
+Accept: application/json
+
+### 3. POST create column
+POST {{workgrid}}/Column/
+Content-Type: application/json
+Accept: application/json
+
+{
+    "TableId": 1,
+    "Name": "Yeni Sütun",
+    "Order": 1,
+    "AllowedTypes": [0, 1] 
+}
+
+### 4. PUT update column
+PUT {{workgrid}}/Column/19
+Content-Type: application/json
+Accept: application/json
+
+{
+    "Id": 19,
+    "TableId": 7,
+    "Name": "Güncellenmiş Sütun",
+    "Order": 2,
+    "AllowedTypes": [4]
+}
+
+### 5. DELETE column by id
+DELETE {{workgrid}}/Column/31
+Accept: application/json
+
+
+#########################################################
+
+### 1. GET all CellData
+GET {{workgrid}}/CellData/
+Accept: application/json
+
+### 2. GET CellData by id
+GET {{workgrid}}/CellData/1
+Accept: application/json
+
+### 3. POST create new CellData
+POST {{workgrid}}/CellData/
+Content-Type: application/json
+Accept: application/json
+
+{
+    "TableId": 1,
+    "Row": 1,
+    "Column": 1,
+    "Value": "Yeni Hücre",
+    "Type": 1,    
+    "ForeignTableId": 2,
+    "ForeignRowId": 4,
+    "ForeignColumnId": 2
+}
+
+### 4. PUT update CellData
+PUT {{workgrid}}/CellData/1
+Content-Type: application/json
+Accept: application/json
+
+{
+    "Id": 1,
+    "Row": 14,
+    "Column": 22,
+    "Value": "Güncellenmiş Hücre",
+    "Type": 1,
+    "ForeignTableId": 2,
+    "ForeignRowId": 9,
+    "ForeignColumnId": 7
+}
+
+### 5. DELETE CellData
+DELETE {{workgrid}}/CellData/4
+Accept: application/json
+
+
+#########################################################
+
+
