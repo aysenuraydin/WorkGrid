@@ -3,7 +3,8 @@
 🔒 Kaynak Kod Hakkında GridBase ticari bir üründür; çekirdek kaynak kodu private tutulmaktadır. Bu repo; mimariyi, dokümantasyonu ve canlı demoyu tanıtan bir vitrindir. Değerlendirme amacıyla private repoya erişim talep edebilirsiniz — memnuniyetle paylaşırım.
 
 <br/>
-🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1 <br/>
+🔗 **Canlı Demo:** https://workgrid-startup.vercel.app <br/>
+🔗 **Detaylı Doküman:** https://workgrid-startup.vercel.app/documents <br/>
 📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1<br/>
 
 # 🟦 WorkGrid
