@@ -4,7 +4,7 @@
 
 <br/>
 🔗 **Canlı Demo:** https://workgrid-startup.vercel.app <br/>
-🔗 **Detaylı Doküman:** https://workgrid-startup.vercel.app/documents <br/>
+🔗 **Detaylı Doküman:** https://workgrid-startup.vercel.app/documents-page <br/>
 📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1<br/>
 
 # 🟦 WorkGrid
